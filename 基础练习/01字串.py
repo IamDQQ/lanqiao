@@ -1,5 +1,5 @@
 n,m=map(int,input().split())
-str="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+str2="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 str1=str[:m]
 print(str1)
 for i in range(1,n):
